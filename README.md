@@ -5,8 +5,6 @@
 - [RoomMate](https://github.com/Cauxi/Room-Mate)
 - [AirBnb-Jets](https://github.com/Cauxi/AirBnb-Jets)
 
-- Connect with me: **https://www.linkedin.com/in/carlos-coelho-5a506a222/**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/carlos coelho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carlos coelho" height="30" width="40" /></a>
