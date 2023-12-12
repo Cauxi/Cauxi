@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Carlos Coelho</h1>
 <h3 align="center">Full Stack Developer, proficient in Ruby on Rails, HTML, CSS and Javascript. With a background in IT and freshly off Le Wagon's coding bootcamp I have a deep desire to continue to make progress in this journey of a developer.</h3>
 
+Portfolio:
+https://infrequent-rhinoceros-b44.notion.site/Carlos-Coelho-Full-Stack-Developer-b72d614c9531406a92e734cb03084456?pvs=4
+
 Bootcamp Projects:
 - [RoomMate](https://github.com/Cauxi/Room-Mate)
 - [AirBnb-Jets](https://github.com/Cauxi/AirBnb-Jets)
