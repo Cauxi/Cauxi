@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Carlos Coelho</h1>
 
 ## About Me
-With a background in IT and recently graduated from Le Wagon's Web Development Bootcamp, I bring a unique combination of my hardware knowledge and network skills with people skills developed at sales, to the programming world. My passion lies in developing software solutions that not only solve problems but also create.
+I'm a passionate Software Engineer focused on Full Stack Development with a solid foundation in IT and recently graduated from Le Wagon's Web Development Bootcamp. With experience in developing Full Stack applications, I specialize in Java, JavaScript and React, blending both back-end and front-end skills to create efficient and user-friendly web solutions.
+Having transitioned from IT support and technical roles into software development, I bring a unique perspective that combines technical knowledge with strong problem-solving abilities and excellent communication skills developed through sales and customer support. I'm eager to contribute to innovative projects, continuously learn new technologies, and grow within a dynamic team.
 
 ## Technical Skills 🛠️
 - **Languages:** JavaScript, Java, SQL, Ruby
