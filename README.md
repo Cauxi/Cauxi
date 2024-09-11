@@ -1,18 +1,30 @@
 <h1 align="center">Hi 👋, I'm Carlos Coelho</h1>
-<h3 align="center">Full Stack Developer, proficient in Ruby on Rails, HTML, CSS and Javascript. With a background in IT and freshly off Le Wagon's coding bootcamp I have a deep desire to continue to make progress in this journey of a developer. Currently expanding my skills with React and Java.</h3> 
 
-Portfolio:
-<a href="https://infrequent-rhinoceros-b44.notion.site/Carlos-Coelho-Full-Stack-Developer-b72d614c9531406a92e734cb03084456?pvs=4">Click me!</a>
+## About Me
+With a background in IT and recently graduated from Le Wagon's Web Development Bootcamp, I bring a unique combination of my hardware knowledge and network skills with people skills developed at sales, to the programming world. My passion lies in developing software solutions that not only solve problems but also create.
 
-Bootcamp Projects:
-- [RoomMate](https://github.com/Cauxi/Room-Mate)
-- [AirBnb-Jets](https://github.com/Cauxi/AirBnb-Jets)
+## Technical Skills 🛠️
+- **Languages:** JavaScript, Java, SQL, Ruby
+- **Frameworks & Libraries:** React, Spring Boot Ruby on Rails
+- **Web Technologies:** HTML5, CSS3, RESTful APIs, JSON
+- **Databases:** MySQL, PostgreSQL
+- **Version Control:** Git, GitHub, GitLab
+- **Deployment & Cloud:** Heroku, AWS (EC2, S3), Docker, Cloud
+- **Development Tools:** Visual Studio Code, IntelliJ IDEA, CI/CD pipelines
+- **Methodologies:** Agile, Scrum, Test-Driven Development (TDD)
+- **Data Science & AI:** Currently expanding my skills with Data and AI to elevate my software development efficiency.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/cauxi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carlos coelho" height="30" width="40" /></a>
-</p>
+## Key Projects 📚
+- [RoomMate](https://github.com/Cauxi/Room-Mate) -> Developed a mobile-friendly web application using Ruby on Rails designed to help young adults find or create harmonious house-sharing groups.
+- [AirBnb-Jets](https://github.com/Cauxi/AirBnb-Jets) -> Developed a web application using Ruby on Rails inspired by marketplaces like AirBnb, where users can rent private jets.
+- [React-AirBnb-Clone](https://github.com/Cauxi/react-airbnb-clone) -> Developed a portfolio project, replicating core features of Airbnb using React.js
+- [cookbook-frontend](https://github.com/Cauxi/cookbook-frontend) + [cookbook-backend](https://github.com/Cauxi/cookbook-backend) -> Created a full stack web app using Spring Boot with complete CRUD operations and connected to a PostgreSQL database and using Typescript with React in the frontend.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+## Professional Goals 🚀
+- **Career Development:** Focused on starting my professional career in software development.
+- **Continuous Learning:** Committed to ongoing professional development by staying updated with the latest tech trends and advancing my coding skills. 📈
 
+## Connect with Me 📬
+- 🔗 [LinkedIn](https://www.linkedin.com/in/cauxi/)
+
+I’m looking forward to collaborating on projects that are at the intersection of technology and social good. Let’s connect! 🌍
