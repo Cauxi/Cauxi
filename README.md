@@ -26,5 +26,3 @@ With a background in IT and recently graduated from Le Wagon's Web Development B
 
 ## Connect with Me 📬
 - 🔗 [LinkedIn](https://www.linkedin.com/in/cauxi/)
-
-I’m looking forward to collaborating on projects that are at the intersection of technology and social good. Let’s connect! 🌍
