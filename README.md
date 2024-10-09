@@ -29,3 +29,4 @@ Having transitioned from IT support and technical roles into software developmen
 - 🔗 [LinkedIn](https://www.linkedin.com/in/cauxi/)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cauxi&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cauxi&hide=scss)
